@@ -26,11 +26,6 @@ DROP TABLE provincies;
 DROP TABLE woonplaatsen;
 DROP TABLE gemeente_woonplaatsen;
 DROP TABLE openbare_ruimten;
-DROP TABLE nummers;
-DROP TABLE panden;
-DROP TABLE verblijfsobjecten;
-DROP TABLE ligplaatsen;
-DROP TABLE standplaatsen;
 DROP TABLE adressen;
 
 VACUUM;
